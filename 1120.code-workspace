@@ -1,0 +1,25 @@
+{
+  "folders": [
+	{
+		"path": "../1120"
+	},
+	{
+		"path": "."
+	},
+	{
+		"path": "../bài11-Thẻ-list-trong-html -ul-ol"
+	},
+	{
+		"path": "../code"
+	},
+	{
+		"path": "../code-2"
+	},
+	{
+		"path": "../code-3-thẻ-hr-pr"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "bài10-tìm-hiểu-thẻ-B-i-u"
+  }
+}
